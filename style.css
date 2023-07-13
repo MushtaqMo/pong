@@ -1,0 +1,62 @@
+body{ 
+    background-color: #f7d3e0;
+    background-image: linear-gradient(rgb(220, 168, 186), rgb(201, 96, 126));
+    }
+
+
+
+
+
+#gameContainer{
+    text-align: center;
+}
+
+#gameBoard{
+    border: 3px solid;
+}
+
+#scoreText{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 100 px;
+}
+
+#resetBtn{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 10px;
+    width:100px;
+    height: 50px;
+    border: 4px solid;
+    border-radius: 15px;
+    cursor: pointer;
+    color:darksalmon;
+    
+
+
+}
+
+.textOne{
+    color:white;
+    font-size: 15px;
+    display: flex;
+    justify-content: center;
+
+
+}
+
+.textTwo{
+    color:rgb(255, 255, 255);
+    font-size: 15px;
+    display: flex;
+    justify-content: center;
+
+
+}
+
+.textThree{
+    color:rgb(255, 255, 255);
+    font-size: 15px;
+    display: flex;
+    justify-content: center;
+
+
+}
